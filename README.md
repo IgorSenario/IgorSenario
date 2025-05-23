@@ -2,10 +2,14 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="32" height="32" /> Olá, me chamo Igor!</h1>
 
-### Data Science
+### Sobre mim
+**Data Science**
 
-Sou um cientista de dados apaixonado por traduzir números em narrativas impactantes.
-Curioso por natureza, transformo dados em decisões e problemas complexos em soluções elegantes.
+Sou Cientista de Dados, apaixonado por tech, design e cultura geek.<br>
+Curto filmes, séries, futebol, games e boardgames.<br>
+No tempo livre tô sempre aprendendo, testando e criando projetos.<br>
+Gosto de rolês tranquilos, boa conversa, série, música e minhas três gatas.<br>
+Sempre tenho um jogo pra indicar, uma ideia pra compartilhar e curto código bem feito.
 
 > Dados são como mapas – eu apenas ajudo a traçar o caminho. <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Compass.png" alt="Compass" width="14" height="14" />
 
@@ -15,7 +19,7 @@ Curioso por natureza, transformo dados em decisões e problemas complexos em sol
 
 ---
 
-### Habilidades
+### Tecnologias e Ferramentas
 
 **Data Science**
 <p>
