@@ -1,12 +1,14 @@
 <img src="./Profile banner.png" width="100%" alt="Banner" />
 
-<h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="32" height="32" /> Olá, me chamo Igor!</h1>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="32" height="32" /> Saudações. Sou Igor, cidadão brasileiro, dedicado à lógica e à paz. Estou aqui para estabelecer um intercâmbio eficiente de informações e cooperação mútua.</h3>
+
+*****
 
 <p align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Star.png" alt="Star" width="25" height="25" /><span>"As melhores coisas são construídas quando as pessoas não têm medo de falhar."</span><br>
 <span>- Elon Musk</span>
 </p>
 
-> 
+***
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="32" height="32" /> Sobre mim
 **Data Science**
