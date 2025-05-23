@@ -1,6 +1,6 @@
 <img src="./Profile banner.png" width="100%" alt="Banner" />
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="32" height="32" /> Saudações. Sou Igor, cidadão brasileiro, dedicado à lógica e à paz. Estou aqui para estabelecer um intercâmbio eficiente de informações e cooperação mútua.</h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="32" height="32" /> Saudações. Sou Igor, dedicado à lógica e à paz. Estou aqui para estabelecer um intercâmbio eficiente de informações e cooperação mútua.</h3>
 
 ***
 
