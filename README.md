@@ -64,6 +64,8 @@ Sempre tenho um jogo pra indicar, uma ideia pra compartilhar e curto código bem
   <img width="40px" src="https://img.freepik.com/vetores-gratis/instagram-logo_1199-122.jpg?semt=ais_hybrid&w=740" alt="Instagram" />
 </a> 
 
+---
+
 <br>
 <br>
 
