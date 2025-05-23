@@ -2,7 +2,7 @@
 
 <h1 align="center"><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Vulcan%20Salute%20Medium-Light%20Skin%20Tone.png" alt="Vulcan Salute Medium-Light Skin Tone" width="32" height="32" /> Olá, me chamo Igor!</h1>
 
-### Sobre mim
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="32" height="32" /> Sobre mim
 **Data Science**
 
 Sou Cientista de Dados, apaixonado por tech, design e cultura geek.<br>
@@ -19,7 +19,7 @@ Sempre tenho um jogo pra indicar, uma ideia pra compartilhar e curto código bem
 
 ---
 
-### Tecnologias e Ferramentas
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="32" height="32" /> Tecnologias e Ferramentas
 
 **Data Science**
 
@@ -43,27 +43,9 @@ Sempre tenho um jogo pra indicar, uma ideia pra compartilhar e curto código bem
 
 ---
 
-### Social
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Call%20Me%20Hand%20Medium-Light%20Skin%20Tone.png" alt="Call Me Hand Medium-Light Skin Tone" width="32" height="32" /> Contato
 
-<a href="https://www.github.com/IgorSenario" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/github-dark.svg" alt="github" />
-</picture>
-</a> &nbsp;
-<a href="https://www.instagram.com/igor_devops" target="_blank" rel="noreferrer">
-<picture>
-<img height="30" width="30" src="https://raw.githubusercontent.com/ShahVandit8/profile-x/refs/heads/main/public/icons/socials/instagram.svg" alt="instagram" />
-</picture>
-</a> &nbsp;
+![Static Badge](https://img.shields.io/badge/instagram-%20?style=for-the-badge&logo=instagram&color=%23ff6e61) ![Static Badge](https://img.shields.io/badge/linkedin-%20?style=for-the-badge&color=%236cc5e5)
 
-### Badges
-#### My GitHub Stats
-
-<a
-href="http://www.github.com/IgorSenario"><img src="https://github-readme-stats.vercel.app/api?username=IgorSenario&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="IgorSenario's GitHub stats" /></a> <br/>
-<br/>
-<a href="https://github.com/IgorSenario" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorSenario&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a> <br/>
-
-#### Top Repositories
 
 
